@@ -52,8 +52,9 @@ Welcome to my corner of GitHub! I'm a passionate Product Manager with interests 
 ### 📈 My GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darwinwatts&show_icons=true&theme=dracula" alt="Darwin Watts' GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darwinwatts&theme=dracula" alt="Darwin Watts' GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darwinwatts&show_icons=true&theme=dracula" alt="Darwin Watts' GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darwinwatts&theme=dracula" alt="Darwin Watts' GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darwinwatts&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
 ---
@@ -61,16 +62,12 @@ Welcome to my corner of GitHub! I'm a passionate Product Manager with interests 
 ### ✍️ Latest Blog Posts:
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deolatoo)
 
----
-
 ### 🤝 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeola-omojola/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deolatoo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=wordpress&logoColor=white)](https://adeola.super.site)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeolasworks@gmail.com)
-
----
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/darwinwatts/count.svg" />
