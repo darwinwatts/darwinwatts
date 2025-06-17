@@ -17,6 +17,7 @@ I'm Adeola (she/her), a Product Manager blending **AI research**, **UX design**,
 - 📚 Currently learning: Rust, Cloud Architectures, and PM Frameworks
 - 🧠 Exploring: AI Agents, LLMOps, and Augmented UX
 - 🤝 Let’s connect on [LinkedIn](https://www.linkedin.com/in/adeola-omojola/)
+<!-- portfolio link shortened URL -> https://shorturl.at/53FBm -->
 
 ---
 
