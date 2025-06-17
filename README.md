@@ -9,13 +9,14 @@
 
 ### ✨ About Me
 
-I'm Adeola (she/her), a Product Manager blending **AI research**, **UX design**, and **human-computer interactions** to create scalable, intuitive solutions. 
+I'm Adeola (she/her), a Product Manager blending **AI research**, **UX design**, and **human-computer interactions** to create scalable, intuitive solutions. I turn complex problems into clear solutions.
 
 - 📍 Based in Ontario 🇨🇦 & Massachuesetts 🇺🇸 
 - 💼 Background in Computer Science & Psychology
 - 🌍 Interested in fintech, health tech, and community-driven tools
 - 📚 Currently learning: Rust, Cloud Architectures, and PM Frameworks
 - 🧠 Exploring: AI Agents, LLMOps, and Augmented UX
+- 🤝 Let’s connect on [LinkedIn](https://www.linkedin.com/in/adeola-omojola/)
 
 ---
 
@@ -35,6 +36,13 @@ I'm Adeola (she/her), a Product Manager blending **AI research**, **UX design**,
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+**AI Libraries:**  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logoColor=white)
+
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat)
@@ -49,13 +57,18 @@ I'm Adeola (she/her), a Product Manager blending **AI research**, **UX design**,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 **Design & Tools:**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer-000000?style=flat&logo=framer&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=white)
+
+... and more
 
 <!-- <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" />
@@ -115,6 +128,14 @@ I'm Adeola (she/her), a Product Manager blending **AI research**, **UX design**,
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/deolatoo)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/deolatoo)
+[![DEV.to](https://img.shields.io/badge/-DEV.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/yourusername)
+[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/yourusername)
+[![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)](https://colab.research.google.com/drive/yourcolab)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/yourusername)
+[![DataCamp](https://img.shields.io/badge/-DataCamp-03EF62?style=flat&logo=datacamp&logoColor=black)](https://www.datacamp.com/profile/yourusername)
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/yourusername)
+[![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/yourusername)
+[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://behance.net/yourusername)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@deolatoo)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adeolasworks@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeola-omojola/)
