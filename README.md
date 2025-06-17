@@ -1,17 +1,12 @@
 ## 👋 Hi there, I'm Adeola! ✨
 
-Welcome to my corner of GitHub! I'm a passionate Product Manager with interests in Software Engineering, Machine Learning, Data Science, UX Design, Web Development and AI Research, and love to build innovative applications, solve complex problems, and contribute to open-source projects.
-
----
-
 ### 🚀 About Me:
-
--   I'm currently an AI/ML Researcher.
--   My pronouns are she/her.
--   My main focus areas include Product Management, AI/ML Research, UX Design, and Full-Stack Web Development.
--   I'm proficient in Python, Java, JavaScript, React, Node.js, Figma, Framer, and Notion.
--   I'm always eager to learn and explore new technologies. I'm currently diving deeper into Serverless Architectures, Rust, and AI/ML.
--   When I'm not coding, you can find me exploring new hiking trails, experimenting with photography, writing, reading novels, most sports and working out.
+-   Hi! I'm Adeola (she/her), a **Product Manager** and **AI/ML Researcher** obsessed with crafting innovative solutions.
+-   My world revolves around **Product Management**, **AI/ML Research**, **UX Design**, **Data Science & Software Engineering**, and **Full-Stack Web Development**.
+-   I specialize in **building impactful applications**, **solving tough challenges**, and contributing to **open source**.
+-   My go-to technologies include **Python**, **Java**, **JavaScript**, **React**, **Node.js**, **Figma**, **Framer**, and **Notion**.
+-   Currently, I'm levelling up my skills in **Google Cloud**, **AWS**, **Serverless Architectures**, **Rust**, and advanced **AI/ML**.
+-   When I'm not coding, I'm **hiking**, **doing photography**, **reading**, or **working out**.
 
 ---
 
@@ -66,10 +61,10 @@ Welcome to my corner of GitHub! I'm a passionate Product Manager with interests 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeola-omojola/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deolatoo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)]((https://adeolatosin.notion.site/Adeola-Omojola-9be50f2f08b747a993ee1f8429f52203?source=copy_link))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)]((https://adeolatosin.notion.site/Adeola-Omojola-9be50f2f08b747a993ee1f8429f52203?source=copy_link)) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeolasworks@gmail.com)
 
-<p align="center">
+<p align="left">
   <img src="https://profile-counter.glitch.me/darwinwatts/count.svg" />
 </p>
 
