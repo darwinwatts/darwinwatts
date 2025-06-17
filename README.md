@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there 👋 I'm Adeola!
+## 👋 Hi there, I'm Adeola! ✨
 
 Welcome to my corner of GitHub! I'm a passionate Product Manager with interests in Software Engineering, Machine Learning, Data Science, UX Design, Web Development and AI Research, and love to build innovative applications, solve complex problems, and contribute to open-source projects.
 
@@ -61,7 +59,7 @@ Welcome to my corner of GitHub! I'm a passionate Product Manager with interests 
 ---
 
 ### ✍️ Latest Blog Posts:
-[![Medium](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deolatoo)
 
 ---
 
@@ -77,6 +75,8 @@ Welcome to my corner of GitHub! I'm a passionate Product Manager with interests 
 <p align="center">
   <img src="https://profile-counter.glitch.me/darwinwatts/count.svg" />
 </p>
+
+
 
 <!--
 **darwinwatts/darwinwatts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
