@@ -1,3 +1,48 @@
+<h1 align="center">Hi, I'm Vicky Omojola 👋</h1>
+
+<p align="center">
+  🎓 CS & Psychology @ YorkU | Product Management | UX & AI Enthusiast<br>
+  💡 Building tech that empowers communities | 🇨🇦 Based in Toronto
+</p>
+
+---
+
+### 👩🏾‍💻 About Me
+I’m a multi-passionate student blending computer science, psychology, and design to build thoughtful tech. Whether leading NSBE, designing for social impact, or diving into data science, I’m always looking for ways to merge logic with empathy.
+
+- 🔭 I’m currently working on: AlgoVerse AI Research + Pawsome Product Strategy
+- 🌱 Learning: Systems Design, Data Viz, and PM frameworks
+- 🤝 Let’s connect on [LinkedIn](https://www.linkedin.com/in/adeola-omojola/)
+
+---
+
+### 🛠️ Tech & Tools
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+... (and more)
+
+---
+
+### 🚀 Featured Projects
+- 🧠 **MemoryMate** – AI-powered cognitive health tracker
+- 🐾 **Pawsome** – Lead product strategy for pet concierge service
+- 🌍 **Global Talent Passport** – Empowering underserved students globally
+
+---
+
+### 📊 GitHub Stats
+![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=darwinwatts&show_icons=true&theme=tokyonight)
+
+---
+
+### 🌟 Fun Facts
+- I love designing smart tech that makes life easier 🧠
+- I believe in tech for good and storytelling for impact 📣
+- I daydream about building my own startup one day 🚀
+------
+
 ## 👋 Hi there, I'm Adeola! ✨
 
 ### 🚀 About Me:
@@ -10,7 +55,20 @@
 
 ---
 
+### 🤝 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeola-omojola/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deolatoo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)]((https://adeolatosin.notion.site/Adeola-Omojola-9be50f2f08b747a993ee1f8429f52203?source=copy_link)) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeolasworks@gmail.com) <br/>
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deolatoo)
+
+---
+
 ### 💻 Technologies & Tools:
+<!-- <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> -->
+
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -52,17 +110,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darwinwatts&theme=dracula" alt="Darwin Watts' GitHub Streak"/>
 </p>
 
----
-
-### ✍️ Latest Blog Posts:
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deolatoo)
-
-### 🤝 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeola-omojola/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deolatoo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)]((https://adeolatosin.notion.site/Adeola-Omojola-9be50f2f08b747a993ee1f8429f52203?source=copy_link)) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeolasworks@gmail.com)
 
 <p align="left">
   <img src="https://profile-counter.glitch.me/darwinwatts/count.svg" />
