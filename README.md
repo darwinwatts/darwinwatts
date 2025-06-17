@@ -52,8 +52,8 @@ Welcome to my corner of GitHub! I'm a passionate Product Manager with interests 
 ### 📈 My GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darwinwatts&show_icons=true&theme=dracula" alt="Darwin Watts' GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darwinwatts&theme=dracula" alt="Darwin Watts' GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=darwinwatts&show_icons=true&theme=dracula" alt="Darwin Watts' GitHub Stats"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darwinwatts&theme=dracula" alt="Darwin Watts' GitHub Streak"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darwinwatts&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
