@@ -66,7 +66,7 @@ Welcome to my corner of GitHub! I'm a passionate Product Manager with interests 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeola-omojola/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deolatoo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=wordpress&logoColor=white)](https://adeola.super.site)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=wordpress&logoColor=white)]((https://adeolatosin.notion.site/Adeola-Omojola-9be50f2f08b747a993ee1f8429f52203?source=copy_link))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeolasworks@gmail.com)
 
 <p align="center">
