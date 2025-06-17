@@ -1,133 +1,147 @@
-<h1 align="center">Hi, I'm Vicky Omojola 👋</h1>
+<h1 align="center">Hi, I'm Adeola 👋🏾</h1>
 
 <p align="center">
-  🎓 CS & Psychology @ YorkU | Product Management | UX & AI Enthusiast<br>
-  💡 Building tech that empowers communities | 🇨🇦 Based in Toronto
+  <strong>AI Product Manager & UX Design Researcher </strong><br>
+  Building smart, human-centered products that bridge tech and empathy 🧠
 </p>
 
+<hr></hr>
+
+### ✨ About Me
+
+I'm Adeola (she/her), a Product Manager blending **AI research**, **UX design**, and **human-computer interactions** to create scalable, intuitive solutions. 
+
+- 📍 Based in Ontario 🇨🇦 & Massachuesetts 🇺🇸 
+- 💼 Background in Computer Science & Psychology
+- 🌍 Interested in fintech, health tech, and community-driven tools
+- 📚 Currently learning: Rust, Cloud Architectures, and PM Frameworks
+- 🧠 Exploring: AI Agents, LLMOps, and Augmented UX
+
 ---
 
-### 👩🏾‍💻 About Me
-I’m a multi-passionate student blending computer science, psychology, and design to build thoughtful tech. Whether leading NSBE, designing for social impact, or diving into data science, I’m always looking for ways to merge logic with empathy.
+### 🛠️ Tech Stack & Tools
 
-- 🔭 I’m currently working on: AlgoVerse AI Research + Pawsome Product Strategy
-- 🌱 Learning: Systems Design, Data Viz, and PM frameworks
-- 🤝 Let’s connect on [LinkedIn](https://www.linkedin.com/in/adeola-omojola/)
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
----
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### 🛠️ Tech & Tools
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-... (and more)
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Cloud / DevOps / Infra:**  
+<!-- ![AWS](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg) -->
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+**Design & Tools:**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer-000000?style=flat&logo=framer&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+
+<!-- <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" width="30" />
+</p> -->
 
 ---
 
 ### 🚀 Featured Projects
-- 🧠 **MemoryMate** – AI-powered cognitive health tracker
-- 🐾 **Pawsome** – Lead product strategy for pet concierge service
-- 🌍 **Global Talent Passport** – Empowering underserved students globally
+
+- 🧠 **Medwise** – An intuitive AI companion helping users make sense of medical test results and research 
+- 📚 **MemoryMate** – AI-powered study assistant designed for neurodivergent and curious learners  
+- 🌏 **Global Talent Passport** – Connects globally underrepresented students with hands-on project experience
+
+
+---
+
+### ✍️ Currently Writing
+
+- “How I’m Building My AI PM Toolkit” on [Medium](https://medium.com/@deolatoo)
+- Case studies & project insights via [Notion Portfolio](https://adeolatosin.notion.site/Adeola-Omojola-9be50f2f08b747a993ee1f8429f52203)
+
+---
+
+### 🚀 What I'm Up To
+
+- 🎓 Finishing my B.A. in Computer Science & Psychology  
+- 🧠 Researching AI/ML use cases for human-centered products  
+- ✍🏾 Writing & sharing tech reflections [on Medium](https://medium.com/@deolatoo)  
+- 🧰 Building project-based tools & digital products — portfolio coming soon!
+
 
 ---
 
 ### 📊 GitHub Stats
-![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=darwinwatts&show_icons=true&theme=tokyonight)
-
----
-
-### 🌟 Fun Facts
-- I love designing smart tech that makes life easier 🧠
-- I believe in tech for good and storytelling for impact 📣
-- I daydream about building my own startup one day 🚀
-------
-
-## 👋 Hi there, I'm Adeola! ✨
-
-### 🚀 About Me:
--   Hi! I'm Adeola (she/her), a **Product Manager** and **AI/ML Researcher** obsessed with crafting innovative solutions.
--   My world revolves around **Product Management**, **AI/ML Research**, **UX Design**, **Data Science & Software Engineering**, and **Full-Stack Web Development**.
--   I specialize in **building impactful applications**, **solving tough challenges**, and contributing to **open source**.
--   My go-to technologies include **Python**, **Java**, **JavaScript**, **React**, **Node.js**, **Figma**, **Framer**, and **Notion**.
--   Currently, I'm levelling up my skills in **Google Cloud**, **AWS**, **Serverless Architectures**, **Rust**, and advanced **AI/ML**.
--   When I'm not coding, I'm **hiking**, **doing photography**, **reading**, or **working out**.
-
----
-
-### 🤝 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeola-omojola/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deolatoo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)]((https://adeolatosin.notion.site/Adeola-Omojola-9be50f2f08b747a993ee1f8429f52203?source=copy_link)) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeolasworks@gmail.com) <br/>
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deolatoo)
-
----
-
-### 💻 Technologies & Tools:
-<!-- <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> -->
-
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  </p>
-
----
-
-### 📈 My GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darwinwatts&layout=compact&theme=dracula" alt="Top Languages" /><br/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=darwinwatts&show_icons=true&theme=dracula" alt="Darwin Watts' GitHub Stats"/><br/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darwinwatts&theme=dracula" alt="Darwin Watts' GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darwinwatts&layout=compact&theme=tokyonight" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darwinwatts&theme=tokyonight" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=darwinwatts&show_icons=true&theme=tokyonight&hide=issues" /><br>
+  <img src="https://profile-counter.glitch.me/darwinwatts/count.svg" alt="Visitor Count"/>
 </p>
 
+---
 
+### 🤝 Connect With Me
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/deolatoo)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/deolatoo)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@deolatoo)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adeolasworks@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeola-omojola/)
+
+
+<!-- NOT USING THIS because it has little lines at the bottom end of each button
 <p align="left">
-  <img src="https://profile-counter.glitch.me/darwinwatts/count.svg" />
+  <a href="https://www.linkedin.com/in/adeola-omojola/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:adeolasworks@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/deolatoo">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/yourusername/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://adeolatosin.notion.site/Adeola-Omojola-9be50f2f08b747a993ee1f8429f52203">
+    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat"/>
+  </a>
+  <a href="https://medium.com/@deolatoo">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white"/>
+  </a>
 </p>
+end of comment -->
 
 
-
-<!--
-**darwinwatts/darwinwatts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Feel free to drop a ⭐ on a repo if it made you think or smile :) -->
