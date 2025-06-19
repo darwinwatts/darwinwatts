@@ -16,7 +16,9 @@ I'm Adeola (she/her), a Product Manager blending **AI research**, **UX design**,
 - 🌍 Interested in fintech, health tech, and community-driven tools
 - 📚 Currently learning: Rust, Cloud Architectures, and PM Frameworks
 - 🧠 Exploring: AI Agents, LLMOps, and Augmented UX
+- ♟️ Fun facts: Adeola love learning spoken languages, films, and writing
 - 🤝 Let’s connect on [LinkedIn](https://www.linkedin.com/in/adeola-omojola/)
+
 <!-- portfolio link shortened URL -> https://shorturl.at/53FBm -->
 
 ---
@@ -81,15 +83,6 @@ I'm Adeola (she/her), a Product Manager blending **AI research**, **UX design**,
 
 ---
 
-### 🚀 Featured Projects
-
-- 🧠 **Medwise** – An intuitive AI companion helping users make sense of medical test results and research 
-- 📚 **MemoryMate** – AI-powered study assistant designed for neurodivergent and curious learners  
-- 🌏 **Global Talent Passport** – Connects globally underrepresented students with hands-on project experience
-
-
----
-
 ### ✍️ Currently Writing
 
 - “How I’m Building My AI PM Toolkit” on [Medium](https://medium.com/@deolatoo)
@@ -101,7 +94,8 @@ I'm Adeola (she/her), a Product Manager blending **AI research**, **UX design**,
 
 - 🎓 Finishing my B.A. in Computer Science & Psychology  
 - 🧠 Researching AI/ML use cases for human-centered products  
-- ✍🏾 Writing & sharing tech reflections [on Medium](https://medium.com/@deolatoo)  
+- ✍🏾 Writing & sharing tech reflections [on Medium](https://medium.com/@deolatoo)
+- 🌏 **Global Talent Passport** – Connects globally underrepresented students with hands-on project experience
 - 🧰 Building project-based tools & digital products — portfolio coming soon!
 
 
