@@ -9,7 +9,7 @@
 
 ### ✨ About Me
 
-I'm Adeola (she/her), a Product Manager blending **AI research**, **UX design**, and **human-computer interactions** to create scalable, intuitive solutions. I turn complex problems into clear solutions.
+I'm Adeola (she/her), a Product Manager blending **AI research**, **product & UX design**, and **human-computer interactions** to create scalable, intuitive solutions. I turn complex problems into clear solutions.
 
 - 📍 Based in Ontario 🇨🇦 & Massachuesetts 🇺🇸 
 - 💼 Background in Computer Science & Psychology
@@ -108,6 +108,8 @@ I'm Adeola (she/her), a Product Manager blending **AI research**, **UX design**,
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darwinwatts&theme=tokyonight" /><br>
   <img src="https://github-readme-stats.vercel.app/api?username=darwinwatts&show_icons=true&theme=tokyonight&hide=issues" /><br>
   <img src="https://profile-counter.glitch.me/darwinwatts/count.svg" alt="Visitor Count"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=darwinwatts&theme=tokyonight&margin-w=15&margin-h=15" />
+
 </p>
 
 ---
