@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adeola 👋🏾</h1>
 
 <p align="center">
-  <strong>AI Product Manager & UX Design Researcher </strong><br>
+  <strong>AI Product Manager & Product Design Researcher </strong><br>
   Building smart, human-centered products that bridge tech and empathy 🧠
 </p>
 
@@ -11,11 +11,8 @@
 
 I'm Adeola (she/her), a Product Manager blending **AI research**, **product & UX design**, and **human-computer interactions** to create scalable, intuitive solutions. I turn complex problems into clear solutions.
 
-- 📍 Based in Ontario 🇨🇦 & Massachuesetts 🇺🇸 
-- 💼 Background in Computer Science & Psychology
+- 📍 Based in Toronto 🇨🇦 (& occasionally Boston 🇺🇸)
 - 🌍 Interested in fintech, health tech, and community-driven tools
-- 📚 Currently learning: Rust, Cloud Architectures, and PM Frameworks
-- 🧠 Exploring: AI Agents, LLMOps, and Augmented UX
 - ♟️ Fun facts: Adeola love learning spoken languages, films, and writing
 - 🤝 Let’s connect on [LinkedIn](https://www.linkedin.com/in/adeola-omojola/)
 
@@ -83,20 +80,14 @@ I'm Adeola (she/her), a Product Manager blending **AI research**, **product & UX
 
 ---
 
-### ✍️ Currently Writing
-
-- “How I’m Building My AI PM Toolkit” on [Medium](https://medium.com/@deolatoo)
-- Case studies & project insights via [Notion Portfolio](https://adeolatosin.notion.site/Adeola-Omojola-9be50f2f08b747a993ee1f8429f52203)
-
----
-
 ### 🚀 What I'm Up To
 
-- 🎓 Finishing my B.A. in Computer Science & Psychology  
-- 🧠 Researching AI/ML use cases for human-centered products  
-- ✍🏾 Writing & sharing tech reflections [on Medium](https://medium.com/@deolatoo)
+- 🎓 Finishing my B.A. in Computer Science & Psychology
+- 📚 Currently learning: Rust, Cloud Architectures, and PM Frameworks
+- ✍🏾 “How I’m Building My AI PM Toolkit” on [Medium](https://medium.com/@deolatoo) (and more tech blogs)
+- 🧠 Researching AI/ML use cases for human-centered products, AI Agents, LLMOps, and Augmented UX
 - 🌏 **Global Talent Passport** – Connects globally underrepresented students with hands-on project experience
-- 🧰 Building project-based tools & digital products — portfolio coming soon!
+- 🧰 Building case studies, project insights, project-based tools & digital products — portfolio coming soon!
 
 
 ---
