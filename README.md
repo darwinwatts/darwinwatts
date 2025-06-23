@@ -94,13 +94,17 @@ I'm Adeola (she/her), a Product Manager blending **AI research**, **product & UX
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darwinwatts&layout=compact&theme=tokyonight" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darwinwatts&theme=tokyonight" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=darwinwatts&show_icons=true&theme=tokyonight&hide=issues" /><br>
-  <img src="https://profile-counter.glitch.me/darwinwatts/count.svg" alt="Visitor Count"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=darwinwatts&theme=tokyonight&margin-w=15&margin-h=15" />
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=darwinwatts&theme=tokyonight" width="360" height="180" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=darwinwatts&show_icons=true&theme=tokyonight&hide=issues" width="360" height="180" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darwinwatts&layout=compact&theme=tokyonight&margin-w=15&margin-h=15" width="360" height="180" /></td>
+  </tr>
+</table>
 
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=darwinwatts&theme=tokyonight&margin-w=15&margin-h=15" /><br>
+  <img src="https://profile-counter.glitch.me/darwinwatts/count.svg" alt="Visitor Count"/>
 </p>
 
 ---
