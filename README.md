@@ -8,7 +8,7 @@
 
 ### ✨ About Me
 
-Product Manager blending **AI research**, **product & UX design**, as well as **human-computer interactions** to create scalable, intuitive solutions. Turning complex problems into clear solutions.
+Product Manager (she/her) blending **AI research**, **product & UX design**, as well as **human-computer interactions** to create scalable, intuitive solutions. Turning complex problems into clear solutions.
 
 - 📍 Based in Toronto 🇨🇦 (& occasionally Boston 🇺🇸)
 - 🌍 Interested in fintech, health tech, and community-driven tools
