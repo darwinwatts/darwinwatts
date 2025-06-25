@@ -2,19 +2,26 @@
 
 <p align="center">
   <strong>AI Product Manager & Product Design Researcher </strong><br>
-  Building smart, human-centered products that bridge tech and empathy 🧠
 </p>
 
 <hr></hr>
 
 ### ✨ About Me
 
-I'm Adeola (she/her), a Product Manager blending **AI research**, **product & UX design**, and **human-computer interactions** to create scalable, intuitive solutions. I turn complex problems into clear solutions.
+Product Manager blending **AI research**, **product & UX design**, as well as **human-computer interactions** to create scalable, intuitive solutions. Turning complex problems into clear solutions.
 
 - 📍 Based in Toronto 🇨🇦 (& occasionally Boston 🇺🇸)
 - 🌍 Interested in fintech, health tech, and community-driven tools
-- ♟️ Fun facts: Adeola love learning spoken languages, films, and writing
+- ♟️ Fun facts: Loves learning spoken languages, films, and writing
 - 🤝 Let’s connect on [LinkedIn](https://www.linkedin.com/in/adeola-omojola/)
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/deolatoo)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/deolatoo)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/byadeola)
+[![Devpost](https://img.shields.io/badge/-Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/byadeola)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@deolatoo)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeola-omojola/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adeolasworks@gmail.com)
 
 <!-- portfolio link shortened URL -> https://shorturl.at/53FBm -->
 
@@ -46,7 +53,7 @@ I'm Adeola (she/her), a Product Manager blending **AI research**, **product & UX
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logoColor=white)
 <br>
-**Cloud / DevOps / Infra:**  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) <!-- ![AWS](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg) -->
+**Cloud / DevOps / Infra:**  ![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
@@ -63,7 +70,8 @@ I'm Adeola (she/her), a Product Manager blending **AI research**, **product & UX
  
 ... and more
 
-<!-- <p align="left">
+<!--
+ <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" />
@@ -76,7 +84,9 @@ I'm Adeola (she/her), a Product Manager blending **AI research**, **product & UX
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" width="30" />
-</p> -->
+</p>      
+
+-->
 
 ---
 
@@ -90,9 +100,8 @@ I'm Adeola (she/her), a Product Manager blending **AI research**, **product & UX
 - 🧰 Building case studies, project insights, project-based tools & digital products — portfolio coming soon!
 
 
----
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
@@ -107,23 +116,20 @@ I'm Adeola (she/her), a Product Manager blending **AI research**, **product & UX
   <img src="https://profile-counter.glitch.me/darwinwatts/count.svg" alt="Visitor Count"/>
 </p>
 
----
+-->
 
-### 🤝 Connect With Me
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/deolatoo)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/deolatoo)
+<!-- ### 🤝 Connect With Me
+
+
 [![DEV.to](https://img.shields.io/badge/-DEV.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/yourusername)
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/yourusername)
 [![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)](https://colab.research.google.com/drive/yourcolab)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/yourusername)
 [![DataCamp](https://img.shields.io/badge/-DataCamp-03EF62?style=flat&logo=datacamp&logoColor=black)](https://www.datacamp.com/profile/yourusername)
 [![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/yourusername)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/yourusername)
 [![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://behance.net/yourusername)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@deolatoo)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adeolasworks@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeola-omojola/)
+-->
 
 
 <!-- NOT USING THIS because it has little lines at the bottom end of each button
@@ -134,20 +140,9 @@ I'm Adeola (she/her), a Product Manager blending **AI research**, **product & UX
   <a href="mailto:adeolasworks@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/deolatoo">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/yourusername/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://adeolatosin.notion.site/Adeola-Omojola-9be50f2f08b747a993ee1f8429f52203">
-    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat"/>
-  </a>
-  <a href="https://medium.com/@deolatoo">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white"/>
-  </a>
 </p>
-end of comment -->
+end of comment 
+-->
 
 
 <!-- Feel free to drop a ⭐ on a repo if it made you think or smile :) -->
