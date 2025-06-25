@@ -6,10 +6,10 @@
 
 <hr></hr>
 
-### ✨ About Me
+### ✨ About Me 
 
-Product Manager (she/her) blending **AI research**, **product & UX design**, as well as **human-computer interactions** to create scalable, intuitive solutions. Turning complex problems into clear solutions.
-
+- 🍋‍🟩 Pronouns (she/her)
+- 💭 Blending **AI research**, **UX design**, and **HCI** to create scalable, intuitive and clear solutions.
 - 📍 Based in Toronto 🇨🇦 (& occasionally Boston 🇺🇸)
 - 🌍 Interested in fintech, health tech, and community-driven tools
 - ♟️ Fun facts: Loves learning spoken languages, films, and writing
@@ -92,7 +92,7 @@ Product Manager (she/her) blending **AI research**, **product & UX design**, as 
 
 ### 🚀 What I'm Up To
 
-- 🎓 Finishing my B.A. in Computer Science & Psychology
+- 🎓 Finishing my Bachelor's in Computer Science & Psychology
 - 📚 Currently learning: Rust, Cloud Architectures, and PM Frameworks
 - ✍🏾 “How I’m Building My AI PM Toolkit” on [Medium](https://medium.com/@deolatoo) (and more tech blogs)
 - 🧠 Researching AI/ML use cases for human-centered products, AI Agents, LLMOps, and Augmented UX
