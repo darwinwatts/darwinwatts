@@ -99,9 +99,9 @@
 - 🌏 **Global Talent Passport** – Connects globally underrepresented students with hands-on project experience
 - 🧰 Building case studies, project insights, project-based tools & digital products — portfolio coming soon!
 
+---
 
-
-<!-- ### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
@@ -111,6 +111,7 @@
   </tr>
 </table>
 
+<!--
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=darwinwatts&theme=tokyonight&margin-w=15&margin-h=15" /><br>
   <img src="https://profile-counter.glitch.me/darwinwatts/count.svg" alt="Visitor Count"/>
