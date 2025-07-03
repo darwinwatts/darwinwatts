@@ -8,7 +8,7 @@
 
 ### ✨ About Me 
 
-- 🍋‍🟩 Pronouns (she/her)
+- 🍋‍🟩 Pronouns: (she/her)
 - 💭 Blending **AI research**, **UX design**, and **HCI** to create scalable, intuitive and clear solutions.
 - 📍 Based in Toronto 🇨🇦 (& occasionally Boston 🇺🇸)
 - 🌍 Interested in fintech, health tech, and community-driven tools
