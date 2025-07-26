@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adeola 👋🏾</h1>
 
 <p align="center">
-  <strong>AI Product Manager & Product Design Researcher </strong><br>
+  <strong>AI Product Manager & Researcher </strong><br>
 </p>
 
 <hr></hr>
@@ -10,7 +10,7 @@
 
 - 💭 Blending **AI research**, **UX design**, and **HCI** to create scalable, intuitive and clear solutions.
 - 📍 Based in Toronto 🇨🇦 (& occasionally Boston 🇺🇸)
-- 🌍 Interested in fintech, health tech, and community-driven tools
+- 🌍 Interested in quant analysis, fintech, health tech, and community-driven tools
 - ♟️ Fun facts: Loves learning spoken languages, films, and writing
 - 🤝 Let’s connect on [LinkedIn](https://www.linkedin.com/in/adeola-omojola/)
 
