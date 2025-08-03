@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adeola 👋🏾</h1>
 
 <p align="center">
-  <strong>AI Product Manager & Researcher </strong><br>
+  <strong> Product Manager & AI Researcher </strong><br>
 </p>
 
 <hr></hr>
