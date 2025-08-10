@@ -94,7 +94,6 @@
 - 🎓 Finishing my Bachelor's in Computer Science & Psychology
 - 📚 Currently learning: Rust, Cloud Architectures, and PM Frameworks
 - ✍🏾 “How I’m Building My AI PM Toolkit” on [Medium](https://medium.com/@deolatoo) (and more tech blogs)
-- 🌏 **Global Talent Passport** – Connects globally underrepresented students with hands-on project experience
 - 🧠 Researching AI/ML use cases for human-centered products, AI Agents, LLMOps, and Augmented UX
 - 🧰 Building case studies, project insights, project-based tools & digital products — portfolio coming soon!
 
