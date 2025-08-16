@@ -8,9 +8,9 @@
 
 ### ✨ About Me 
 
-- 💭 Blending **AI research**, **UX design**, and **HCI** to create scalable, intuitive and clear solutions.
-- 📍 Based in Toronto 🇨🇦 (& occasionally Boston 🇺🇸)
-- 🌍 Interested in quant analysis, fintech, health tech, and community-driven tools
+- 💭 Blending **AI Research**, **UX Design**, and **HCI** to create scalable, intuitive and clear solutions.
+- 📍 Based in Toronto 🇨🇦 (& Boston 🇺🇸)
+- 🌍 Interested in data science, fintech, health tech, and community-driven tools
 - ♟️ Fun facts: Loves learning spoken languages, films, and writing
 - 🤝 Let’s connect on [LinkedIn](https://www.linkedin.com/in/adeola-omojola/)
 
