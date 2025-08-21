@@ -8,7 +8,7 @@
 
 ### ✨ About Me 
 
-- 💭 Blending **AI Research**, **UX Design**, and **HCI** to create scalable, intuitive and clear solutions.
+- 💭 Building intelligent products through **AI Research**, **Data Science**, and **User-Centered Design**
 - 📍 Based in Toronto 🇨🇦 (& Boston 🇺🇸)
 - 🌍 Interested in data science, fintech, health tech, and community-driven tools
 - ♟️ Fun facts: Loves learning spoken languages, films, and writing
@@ -39,14 +39,23 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) 
 <br>
 **Backend:**  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) 
+![RESTful APIs](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white) 
 <br>
-**AI Tools & Libraries:**  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+**AI Tools & Libraries:**  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
@@ -91,11 +100,12 @@
 
 ### 🚀 What I'm Up To
 
+- 📚 Currently learning: Rust, Cloud Architectures, AI Agents and PM Frameworks
+- 🧠 Researching AI/ML use cases + building predictive models for human-centered products
+- 📊 Analyzing datasets for insights on user behavior and product optimization
+- ⚡ Optimizing performance and implementing CI/CD pipelines 
+- ⚙️ Building ML models to predict user preferences and analyzing behavioral datasets
 - 🎓 Finishing my Bachelor's in Computer Science & Psychology
-- 📚 Currently learning: Rust, Cloud Architectures, and PM Frameworks
-- ✍🏾 “How I’m Building My AI PM Toolkit” on [Medium](https://medium.com/@deolatoo) (and more tech blogs)
-- 🧠 Researching AI/ML use cases for human-centered products, AI Agents, LLMOps, and Augmented UX
-- 🧰 Building case studies, project insights, project-based tools & digital products — portfolio coming soon!
 
 ---
 
