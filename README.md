@@ -107,7 +107,7 @@
 - 📊 Analyzing datasets for insights on user behavior and product optimization
 - ⚡ Optimizing performance and implementing CI/CD pipelines 
 - ⚙️ Building ML models to predict user preferences and analyzing behavioral datasets
-- 🎓 Finishing my Bachelor's in Computer Science & Psychology
+- 🎓 Finishing my Bachelor's in Computer Science
 
 ---
 
