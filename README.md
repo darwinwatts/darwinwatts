@@ -8,8 +8,8 @@
 
 ### ✨ About Me 
 
-- 💭 Building intelligent products through **AI Research**, **Data Science**, and **User-Centered Design** and more
-- 📍 Based in Toronto 🇨🇦 (& Boston 🇺🇸)
+- 💭 Building intelligent products through **AI Research**, **Data Science**, and **User-Centered Design**
+- 📍 Based in Toronto 🇨🇦
 - 🌍 Interested in data science, fintech, health tech, and community-driven tools
 - ♟️ Fun facts: Loves learning spoken languages, films, and writing
 - 🤝 Let’s connect on [LinkedIn](https://www.linkedin.com/in/adeola-omojola/)
