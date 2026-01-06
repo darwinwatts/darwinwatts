@@ -113,11 +113,29 @@
 
 ### 📊 GitHub Stats
 
-<table style="border-collapse: collapse; border: blue;">
+<table style="border-collapse: collapse;">
   <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=darwinwatts&theme=tokyonight" width="360" height="180" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=darwinwatts&show_icons=true&theme=tokyonight&hide=issues" width="360" height="180" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darwinwatts&layout=compact&theme=tokyonight&margin-w=15&margin-h=15" width="360" height="180" /></td>
+    <td>
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=darwinwatts&theme=tokyonight"
+        width="360"
+        height="180"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=darwinwatts&show_icons=true&theme=tokyonight&hide=issues"
+        width="360"
+        height="180"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=darwinwatts&layout=compact&theme=tokyonight"
+        width="360"
+        height="180"
+      />
+    </td>
   </tr>
 </table>
 
