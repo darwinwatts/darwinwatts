@@ -8,6 +8,7 @@
 
 ### ✨ About Me 
 
+- 🎓 Bachelor's degree in Computer Science
 - 💭 Building intelligent products through **AI Research**, **Data Science**, and **User-Centered Design**
 - 📍 Based in Toronto 🇨🇦
 - 🌍 Interested in data science, fintech, health tech, and community-driven tools
@@ -107,13 +108,18 @@
 - 📊 Analyzing datasets for insights on user behavior and product optimization
 - ⚡ Optimizing performance and implementing CI/CD pipelines 
 - ⚙️ Building ML models to predict user preferences and analyzing behavioral datasets
-- 🎓 Finishing my Bachelor's in Computer Science
 
 ---
 
 ### 📊 GitHub Stats
 
-<table style="border-collapse: collapse;">
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=darwinwatts&theme=tokyonight"
+  width="360"
+  height="180"
+/>
+      
+<!---- <table style="border-collapse: collapse;">
   <tr>
     <td>
       <img
@@ -137,8 +143,7 @@
       />
     </td>
   </tr>
-</table>
-
+</table> --->
 <!--
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=darwinwatts&theme=tokyonight&margin-w=15&margin-h=15" /><br>
