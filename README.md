@@ -28,6 +28,15 @@
 
 ---
 
+### 🚀 What I'm Up To
+
+- 📚 Currently learning: Rust, Cloud Architectures, AI Agents and PM Frameworks
+- 🧠 Researching AI/ML use cases + building predictive models for human-centered products
+- 📊 Analyzing datasets for insights on user behavior and product optimization
+- ⚙️ Building optimal solutions for outdated business operations 
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 **Languages:**  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -98,16 +107,6 @@
 </p>      
 
 -->
-
----
-
-### 🚀 What I'm Up To
-
-- 📚 Currently learning: Rust, Cloud Architectures, AI Agents and PM Frameworks
-- 🧠 Researching AI/ML use cases + building predictive models for human-centered products
-- 📊 Analyzing datasets for insights on user behavior and product optimization
-- ⚡ Optimizing performance and implementing CI/CD pipelines 
-- ⚙️ Building ML models to predict user preferences and analyzing behavioral datasets
 
 ---
 
