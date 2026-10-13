@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Darwin 👋🏾</h1>
+<h1 align="center">Hi, I'm Adeola 👋🏾</h1>
 
 <p align="center">
   <strong> Product Manager & AI Researcher </strong><br>
