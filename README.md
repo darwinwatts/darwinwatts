@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Adeola 👋🏾</h1>
+<h1 align="center">Hi, I'm Darwin 👋🏾</h1>
 
 <p align="center">
   <strong> Product Manager & AI Researcher </strong><br>
@@ -10,7 +10,6 @@
 
 - 🎓 Bachelor's degree in Computer Science 
 - 💭 Building intelligent products through **AI Research**, **Data Science**, and **User-Centered Design**
-- 📍 Based in Toronto 🇨🇦
 - 🌍 Interested in data science, health tech, fintech, and community-driven tools
 - ♟️ Fun facts: Loves learning spoken languages, films, and writing
 - 🤝 Let’s connect on [LinkedIn](https://www.linkedin.com/in/adeola-omojola/)
